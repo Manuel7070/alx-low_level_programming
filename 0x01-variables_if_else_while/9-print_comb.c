@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - main action
- *
- * Return: 0 (success)
- */
+	* main - main action
+	*
+	* Return: 0 (success)
+	*/
 
 int main(void)
 {
@@ -12,10 +12,13 @@ int main(void)
 
 	for (i = 0 ; i < 10 ; i++)
 	{
-		putchar(i);
-		putchar(',');
-		putchar(' ');
+	if (i == 9)
+	putchar(i + '0');
+	else
+	{      putchar(i + '0');
+	putchar(',');
+	putchar(' ');
 	}
-	putchar('\n');
+	}
 	return (0);
 }
