@@ -1,29 +1,25 @@
-0x1A. C - Hash tables
-C
-Algorithm
-Data structure
-General
-What is a hash function
-What makes a good hash function
-What is a hash table, how do they work and how to use them
-What is a collision and what are the main ways of dealing with collisions in the context of a hash table
-What are the advantages and drawbacks of using hash tables
-What are the most common use cases of hash tables
-Copyright - Plagiarism
-You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-You are not allowed to publish any content of this project.
-Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
-General
-Allowed editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-All your files should end with a new line
-A README.md file, at the root of the folder of the project is mandatory
-Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-You are not allowed to use global variables
-No more than 5 functions per file
-You are allowed to use the C standard library
-The prototypes of all your functions should be included in your header file called hash_tables.h
-Don’t forget to push your header file
-All your header files should be include guarded
+# Low-Level Programming Language Repository
+
+Welcome to the Low-Level Programming Language Repository! This repository is dedicated to the development and exploration of low-level programming languages, where code interacts closely with computer hardware.
+
+## About
+
+This repository hosts code samples, projects, and resources related to low-level programming languages. Whether you're a seasoned programmer looking to dive deeper into computer architecture or a curious beginner eager to learn about the inner workings of computers, you'll find something of interest here.
+
+## Contents
+
+- **Code Samples:** Browse through our collection of code samples written in low-level programming languages like assembly language and machine code.
+  
+- **Projects:** Explore various projects developed using low-level programming languages, ranging from simple exercises to more complex applications.
+
+- **Resources:** Find links to tutorials, articles, books, and other resources to help you learn more about low-level programming languages and computer architecture.
+
+## Contributing
+
+We welcome contributions from the community! If you have code samples, projects, or resources that you'd like to share, feel free to submit a pull request. Please ensure that your contributions adhere to our [contribution guidelines](CONTRIBUTING.md).
+
+## Feedback and Support
+
+If you have any questions, suggestions, or feedback, please don't hesitate to [open an issue](../../issues). We're here to help and support each other in our journey through low-level programming.
+
+
