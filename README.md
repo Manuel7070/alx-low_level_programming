@@ -16,7 +16,7 @@ This repository hosts code samples, projects, and resources related to low-level
 
 ## Contributing
 
-We welcome contributions from the community! If you have code samples, projects, or resources that you'd like to share, feel free to submit a pull request. Please ensure that your contributions adhere to our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you have code samples, projects, or resources that you'd like to share, feel free to submit a pull request.
 
 
 
