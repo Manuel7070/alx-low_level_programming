@@ -12,7 +12,5 @@ This repository hosts code samples, projects, and resources related to low-level
   
 - **Projects:** Explore various projects developed using low-level programming languages, ranging from simple exercises to more complex applications.
 
-- **Resources:** Find links to tutorials, articles, books, and other resources to help you learn more about low-level programming languages and computer architecture.
-
-- **Reach-out**
+- **Resources:** Find links to tutorials, articles, books, and other resources to help you learn more about low-level programming languages and computer architecture
 
